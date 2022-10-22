@@ -1,41 +1,9 @@
 import React from 'react';
-
+import './About.css'
 const About = () => {
     return (
-        <div
-            style={{
-                display: 'flex',
-                justifyContent: 'Right',
-                alignItems: 'Right',
-                height: '100vh'
-            }}>
-
-            <div>
-                <div className="greetings">Hello kind people</div><div className="line"></div>
-                <div className="save">SAVE OUR</div>
-                <div className="planet">PLANET</div>
-                <div className="description">
-                    <p>
-                        Our economy is largely dependent on tourisn and
-                        rain-fed agriculture, both susceptible to climate<br /> change.
-                        increased intensity of hazardous droughts and heat waves directly harm animals,
-                        destroy crops<br />  and wreck havoc on
-                        rain-fed agriculture, both susceptible to climate change.
-                        increased intensity of<br />  hazardous droughts and heat waves directly harm animals,
-                        on people’s livelihoods.
-                    </p>
-                </div>
-                <div>
-                    <button className="learn">Learn more</button>
-                </div>
-            </div>
-            <div className="photo">
-                <img src={tree} />
-
-            </div>
-
-            <div className="more">OVERVIEW</div>
-
+        <div id='about'>
+            <h2 className='over'>Overview</h2>
             <div className="content">
                 <div className="card">
                     <div className="eclipse"></div>

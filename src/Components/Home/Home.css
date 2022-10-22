@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+.greenbox {
+    background-color: rgba(0, 180.00000447034836, 89.00000229477882, 1);
+    width: 250px;
+    height: 50vh;
+    margin-left: 70%;
+}
+
+.greenboxtwo {
+    background-color: rgba(0, 180.00000447034836, 89.00000229477882, 1);
+    width: 112px;
+    height: 236px;
+    left: 1165px;
+    top: 450px;
+    position: absolute;
+}
+
+@media (max-width: 952px) {
+    * {
+        box-sizing: border-box;
+    }
+
+    .greenbox {
+        background-color: rgba(0, 180.00000447034836, 89.00000229477882, 1);
+        width: 250px;
+        height: 50vh;
+        margin-left: 70%;
+    }
+
+    .greenboxtwo {
+        background-color: rgba(0, 180.00000447034836, 89.00000229477882, 1);
+        width: 112px;
+        height: 236px;
+        left: 1165px;
+        position: relative;
+    }
+}
+
+.home {
+    display: flex;
+    margin-top: -20%;
+    justify-content: start;
+    position: relative;
+}
+
+.description {
+    margin-left: 2%;
+}
+
+.greetings {
+    color: white;
+    font-weight: 200;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.line {
+    width: 120px;
+    position: absolute;
+    margin-left: 140px;
+    margin-top: -0.7%;
+    border: 1px solid rgba(255, 255, 255, 0.671);
+}
+
+.image {
+    margin-left: 4%;
+    top: 5vh;
+}
+
+.image img {
+    position: static;
+    width: 115%;
+    height: 95vh;
+    
+}
+
+.save h1 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 100px;
+    color: white;
+    top: 5vh;
+    text-align: start;
+    /* position: relative; */
+}
+.spot{
+    
+    /* position: absolute; */
+    width: 100%;
+}
+.spot p {
+    margin-top: -5%;
+    text-align: left;
+    font-size: 18px;
+    position: absolute;
+    border-radius: 10px;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    padding: 10px;
+    background: #2F2E41;
+    opacity: 0.9;
+}
+.learn{
+    margin-top: 36%;
+    
+}
+.learn button{
+    border: none;
+    height: 40px;
+    width: 40%;
+    font-size: 15px;
+    border-radius: 5px;
+    background-color: rgba(0, 180.00000447034836, 89.00000229477882, 1);
+    color: white;
+    font-family: 'Poppins', sans-serif;
+}
