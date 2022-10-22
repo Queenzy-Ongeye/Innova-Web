@@ -5,6 +5,7 @@ import About from './About/About';
 import Home from './Home/Home'; 
 import Product from './Product/Product';
 import Team from './Team/Team';
+import Contact from './Concact/Contact';
 // // import Team from './Components/Team';
 // // import Contact from './Components/Contact';
 
@@ -31,6 +32,7 @@ function App() {
       <About />
       <Product />
       <Team />
+      <Contact/>
       {/* {component} */}
     </div>
   );
