@@ -1,6 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400&display=swap');
+
+.over{
+    text-align: center;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    font-size: 2rem;
+}
 .content {
     display: flex;
-    margin-top: 5%;
+    margin-top: -2%;
 }
 .card {
     width: 40%;
