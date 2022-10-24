@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Queenzy-Ongeye/Innova-Web.git/static/css/main.172f535a.css",
+    "main.js": "/Queenzy-Ongeye/Innova-Web.git/static/js/main.a7cc1507.js",
+    "static/js/787.c4dbf0d5.chunk.js": "/Queenzy-Ongeye/Innova-Web.git/static/js/787.c4dbf0d5.chunk.js",
+    "static/media/joy.jpg": "/Queenzy-Ongeye/Innova-Web.git/static/media/joy.e725bdf82da1917cb066.jpg",
+    "static/media/lavyne.jpg": "/Queenzy-Ongeye/Innova-Web.git/static/media/lavyne.349d92825e26a16414fc.jpg",
+    "static/media/tree.png": "/Queenzy-Ongeye/Innova-Web.git/static/media/tree.c72ab0ef05e370b87000.png",
+    "static/media/treepic.png": "/Queenzy-Ongeye/Innova-Web.git/static/media/treepic.ac5a883db253c3f5f119.png",
+    "static/media/Queen.jpeg": "/Queenzy-Ongeye/Innova-Web.git/static/media/Queen.d6f4434e0bfc0dba0d71.jpeg",
+    "static/media/me.jpeg": "/Queenzy-Ongeye/Innova-Web.git/static/media/me.d7cd00c9944d361da271.jpeg",
+    "static/media/maryann.png": "/Queenzy-Ongeye/Innova-Web.git/static/media/maryann.6fb212806032a13f8e4f.png",
+    "static/media/desktop.png": "/Queenzy-Ongeye/Innova-Web.git/static/media/desktop.f3c85f76b286396bb19d.png",
+    "static/media/logo.svg": "/Queenzy-Ongeye/Innova-Web.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Queenzy-Ongeye/Innova-Web.git/index.html",
+    "main.172f535a.css.map": "/Queenzy-Ongeye/Innova-Web.git/static/css/main.172f535a.css.map",
+    "main.a7cc1507.js.map": "/Queenzy-Ongeye/Innova-Web.git/static/js/main.a7cc1507.js.map",
+    "787.c4dbf0d5.chunk.js.map": "/Queenzy-Ongeye/Innova-Web.git/static/js/787.c4dbf0d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.172f535a.css",
+    "static/js/main.a7cc1507.js"
+  ]
+}
