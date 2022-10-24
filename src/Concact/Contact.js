@@ -6,7 +6,7 @@ const Contact = () => {
         <div id="state">
             <div class="loc">
                 <h4>Location</h4>
-                <p> Akirachix 616 Korongo Rd. <br/> Nairobi, Kenya</p>
+                <p> Akirachix,<br/> 616 Korongo Rd. <br/> Nairobi, Kenya</p>
             </div>
             <div class="cont">
                 <h4>Contacts</h4>

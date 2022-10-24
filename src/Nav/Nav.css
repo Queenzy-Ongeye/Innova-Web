@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Salsa&display=swap');/* Nav-styling */
 * {
     box-sizing: border-box;
 }
@@ -35,6 +37,7 @@ body {
     align-items: center;
     display: flex;
     padding: .25rem;
+    font-family: 'Salsa', cursive;
     
 }
 

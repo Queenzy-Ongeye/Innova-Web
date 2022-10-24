@@ -1,15 +1,17 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400&display=swap');
 
-.over{
+.over {
     text-align: center;
     color: white;
     font-family: 'Poppins', sans-serif;
     font-size: 2rem;
 }
+
 .content {
     display: flex;
     margin-top: -2%;
 }
+
 .card {
     width: 40%;
     height: 40vh;
@@ -19,6 +21,7 @@
     margin: 1%;
     border-radius: 10px;
 }
+
 .eclipse {
     border-radius: 50%;
     width: 20%;
@@ -26,4 +29,80 @@
     align-items: center;
     background-color: aquamarine;
     margin-left: 40%;
+}
+
+@media(max-width: 991px) {
+    .over {
+        text-align: center;
+        color: white;
+        font-family: 'Poppins', sans-serif;
+        font-size: 2rem;
+    }
+
+    .content {
+        display: block;
+        margin-top: -2%;
+    }
+    .problem{
+        font-size: 20px;
+    }
+
+    .card {
+        width: 90%;
+        height: 50vh;
+        padding: 20px;
+        background-color: white;
+        color: black;
+        margin: 1%;
+        border-radius: 10px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .eclipse {
+        border-radius: 50%;
+        width: 25%;
+        height: 20vh;
+        align-items: center;
+        background-color: aquamarine;
+        margin-left: 40%;
+    }
+}
+
+@media(max-width: 479px) {
+    .over {
+        text-align: center;
+        color: white;
+        font-family: 'Poppins', sans-serif;
+        font-size: 2rem;
+    }
+
+    .content {
+        display: block;
+        margin-top: -2%;
+    }
+    .problem{
+        font-size: 20px;
+    }
+
+    .card {
+        width: 80%;
+        height: 65vh;
+        padding: 20px;
+        background-color: white;
+        color: black;
+        margin: 1%;
+        border-radius: 10px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .eclipse {
+        border-radius: 20%;
+        width: 15%;
+        height: 10vh;
+        align-items: center;
+        background-color: aquamarine;
+        margin-left: 40%;
+    }
 }
